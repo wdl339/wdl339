@@ -12,8 +12,6 @@ This is wdl339, aka. Dongliang Wei. I’m an undergraduate student at SJTU major
 
 📫 How to reach me: weidongliang9@sjtu.edu.cn.
 
-<img src='https://github-readme-stats.vercel.app/api?username=wdl339&show_icons=true&count_private=true&hide_title=true'/>
-
 <!--
 **wdl339/wdl339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
