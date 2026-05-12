@@ -4,7 +4,7 @@ This is wdl339, aka. Dongliang Wei. I’m an undergraduate student at SJTU major
 
 🌱 I’ve learnt **Web development, Compiler, Operating System, Cloud OS** and so on.
 
-💻 I currently have the privilege of being a research intern at the [IPADS Lab](https://ipads.se.sjtu.edu.cn/).
+💻 I’m currently a member of the [IPADS Lab](https://ipads.se.sjtu.edu.cn/).
 
 🤝 I’m also an intern at ByteDance Seed, actively contributing to the **veRL** open-source community.
 
