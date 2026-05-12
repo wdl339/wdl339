@@ -6,7 +6,9 @@ This is wdl339, aka. Dongliang Wei. I’m an undergraduate student at SJTU major
 
 💻 I currently have the privilege of being a research intern at the [IPADS Lab](https://ipads.se.sjtu.edu.cn/).
 
-🔭 My current focus is on **Machine Learning System** and **AI Infra**. I have hands-on experience in both **training and inference optimization** of Large Language Models.
+🤝 I’m also an intern at ByteDance Seed, actively contributing to the **veRL** open-source community.
+
+🔭 My current focus is on **Machine Learning System** and **AI Infra**. I have hands-on experience in both **RL training, pretraining and inference optimization** of Large Language Models.
 
 📒 Know more about me in [my website](https://moyude9.cn/).
 
